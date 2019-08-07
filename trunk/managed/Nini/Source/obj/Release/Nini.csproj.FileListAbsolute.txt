@@ -1,0 +1,4 @@
+D:\Documents\Projects\UtopiaSkye\OpenSim\opensim-libs\trunk\managed\Nini\build\Nini.dll
+D:\Documents\Projects\UtopiaSkye\OpenSim\opensim-libs\trunk\managed\Nini\Source\obj\Release\Nini.csprojAssemblyReference.cache
+D:\Documents\Projects\UtopiaSkye\OpenSim\opensim-libs\trunk\managed\Nini\Source\obj\Release\Nini.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\UtopiaSkye\OpenSim\opensim-libs\trunk\managed\Nini\Source\obj\Release\Nini.dll
